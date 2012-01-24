@@ -27,6 +27,7 @@
 #include <string.h>
 #include <stdio.h>
 #include <assert.h>
+#include <stdint.h>
 
 #define ERLZMQ_MAX_CONCURRENT_REQUESTS 16384
 
